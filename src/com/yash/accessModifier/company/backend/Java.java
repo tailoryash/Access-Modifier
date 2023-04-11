@@ -16,8 +16,4 @@ public class Java extends Simform {
         System.out.println("Engineering Manager name in " + simform.dept + " Department : " + javaStack.engineeringManager);
     }
 
-    public static void main(String[] args) {
-        Java java = new Java();
-        java.showDetailsOfDept();
-    }
 }
